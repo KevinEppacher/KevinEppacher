@@ -12,34 +12,47 @@
 
 # About Me
 
-Hi there! 👋 I’m **Kevin Eppacher**, a robotic software engineer passionate about perception-driven autonomy, intelligent control, and semantic understanding in robotics. 🤖  
+Hi there! 👋 I’m **Kevin Eppacher**, a **Robotics Software Engineer** focused on autonomous systems, mobile robotics, perception, control, and robot learning. 🤖
 
-I earned my **B.Sc. in Mechatronics & Robotics** and I’m currently pursuing my **M.Sc. in Robotics** at [UAS Technikum Vienna](https://www.technikum-wien.at/), where I focus on computer vision, probabilistic robotics, and nonlinear optimization. Over the past years, I’ve worked both in **research and industry**, building intelligent robotic systems that connect perception, planning, and action through modern AI frameworks.
+I hold an **M.Sc. in Robotics** and a **B.Sc. in Mechatronics & Robotics** from UAS Technikum Vienna. My work spans both **industrial robotics and applied research**, with a strong focus on building complete robotic software systems that connect perception, localization, planning, control, and hardware.
 
-I previously worked as an **Industrial Robotics Software Engineer** at [Blue Danube Robotics (AIRSKIN)](https://www.airskin.io/), where I developed robotic applications for safety, palletizing, and automated testing — from simulation to deployment. My current research project, **SAGE – Semantic-Aware Guided Exploration**, explores how **Visual-Language Models (VLMs)** can drive autonomous exploration through 3D semantic mapping and persistent memory.
+Most recently, I worked as a **Robotics Software Engineer at Baubot**, where I took technical responsibility for building a **ROS 2 software stack from scratch**, including autonomous navigation and localization, motion planning, hardware interfaces, simulation, and automated testing. Previously, at **Blue Danube Robotics (AIRSKIN)**, I developed software for industrial robot applications involving motion planning, sensor integration, calibration, palletizing, and automated testing with KUKA, UR, and ABB systems.
+
+My Master's thesis, **SAGE – Semantic-Aware Guided Exploration**, explored autonomous semantic object search using **RGB-D perception, 3D semantic mapping, Vision-Language Models (VLMs), Behavior Trees, and Nav2** in NVIDIA Isaac Sim.
 
 ---
 
 ## What I Do
 
-I design and implement algorithms that make robots *understand and interact with their environments* more intelligently — combining classical control, optimization, and machine learning.
+I develop robotics software that connects low-level hardware with autonomous decision-making, combining classical robotics with modern AI methods.
 
 Key areas I work in:
 
-- **Semantic Perception** — Developing systems that map and interpret 3D environments using detection, segmentation, and visual-language reasoning.  
-- **Autonomous Decision-Making** — Using reinforcement learning and behavior trees to enable adaptable and explainable robot actions.  
-- **Optimization & Control** — Designing nonlinear MPC and planning frameworks for safe, smooth, and constraint-aware motion.  
-- **Applied Robotics Engineering** — Delivering end-to-end robotic software from simulation to deployment, integrating sensors, hardware, and real-time systems.
+- **ROS 2 & Robotics Software Architecture** — Designing modular robotic systems, hardware interfaces, action-based APIs, simulation environments, and automated testing pipelines.
+- **Autonomous Navigation & Localization** — Working with mobile robots, sensor fusion, state estimation, mapping, localization, trajectory planning, and navigation.
+- **Motion Planning & Manipulation** — Integrating robot kinematics, MoveIt 2, industrial manipulators, calibration, and sensor-driven robot applications.
+- **Perception & Semantic Robotics** — Building RGB-D and 3D perception pipelines using object detection, semantic mapping, and Vision-Language Models.
+- **Optimization & Robot Learning** — Applying nonlinear MPC, reinforcement learning, and learning-based approaches to robotic control and autonomy.
+- **C++ Robotics Engineering** — Developing modern C++ software for ROS 2, hardware communication, multithreaded systems, testing, and CI/CD.
 
-I’m a strong advocate of **open-source robotics**, and most of my work — including my research code — is available on [GitHub](https://github.com/KevinEppacher).
-
----
-
-## Outside the Lab
-
-When I’m not developing or optimizing robot software, I enjoy **walking with my dog**, **street skateboarding** and **surfing**.
+I’m particularly interested in **mobile manipulation, Physical AI, and learning-enabled robotics**, while keeping robust software architecture and deterministic robotic control at the core of the system.
 
 ---
 
-Feel free to explore my **Portfolio** to see the projects I’m working on — from industrial automation to semantic 3D exploration.  
-I’m always open to new collaborations, creative research ideas, or just a conversation about robotics and AI. 🚀
+## Current Projects
+
+I’m currently developing an **SO-101 robotic arm platform with ROS 2 control integration**, including a C++ hardware abstraction and servo driver. The platform is intended for experiments with robot learning and learning from demonstration on physical hardware.
+
+I also continue exploring approaches that combine **semantic perception, foundation models, and structured robot behaviors** for more capable autonomous robotic systems.
+
+---
+
+## Outside Robotics
+
+When I’m not developing robot software, I enjoy **walking with my dog, street skateboarding, and surfing**.
+
+---
+
+Feel free to explore my **Portfolio** and repositories to see my work across autonomous mobile robots, industrial robotics, semantic perception, control, and robot learning.
+
+I’m always interested in challenging robotics projects and opportunities to build intelligent systems that operate in the real world. 🚀
