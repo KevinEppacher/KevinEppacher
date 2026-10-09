@@ -28,22 +28,14 @@ I develop robotics software that connects low-level hardware with autonomous dec
 
 Key areas I work in:
 
-- **ROS 2 & Robotics Software Architecture** — Designing modular robotic systems, hardware interfaces, action-based APIs, simulation environments, and automated testing pipelines.
-- **Autonomous Navigation & Localization** — Working with mobile robots, sensor fusion, state estimation, mapping, localization, trajectory planning, and navigation.
-- **Motion Planning & Manipulation** — Integrating robot kinematics, MoveIt 2, industrial manipulators, calibration, and sensor-driven robot applications.
-- **Perception & Semantic Robotics** — Building RGB-D and 3D perception pipelines using object detection, semantic mapping, and Vision-Language Models.
-- **Optimization & Robot Learning** — Applying nonlinear MPC, reinforcement learning, and learning-based approaches to robotic control and autonomy.
-- **C++ Robotics Engineering** — Developing modern C++ software for ROS 2, hardware communication, multithreaded systems, testing, and CI/CD.
+- **ROS 2 & Robotics Software Architecture**: Designing modular robotic systems, hardware interfaces, action-based APIs, simulation environments, and automated testing pipelines.
+- **Autonomous Navigation & Localization**: Working with mobile robots, sensor fusion, state estimation, mapping, localization, trajectory planning, and navigation.
+- **Motion Planning & Manipulation**: Integrating robot kinematics, MoveIt 2, industrial manipulators, calibration, and sensor-driven robot applications.
+- **Perception & Semantic Robotics**: Building RGB-D and 3D perception pipelines using object detection, semantic mapping, and Vision-Language Models.
+- **Optimization & Robot Learning**: Applying nonlinear MPC, reinforcement learning, and learning-based approaches to robotic control and autonomy.
+- **C++ Robotics Engineering**: Developing modern C++ software for ROS 2, hardware communication, multithreaded systems, testing, and CI/CD.
 
 I’m particularly interested in **mobile manipulation, Physical AI, and learning-enabled robotics**, while keeping robust software architecture and deterministic robotic control at the core of the system.
-
----
-
-## Current Projects
-
-I’m currently developing an **SO-101 robotic arm platform with ROS 2 control integration**, including a C++ hardware abstraction and servo driver. The platform is intended for experiments with robot learning and learning from demonstration on physical hardware.
-
-I also continue exploring approaches that combine **semantic perception, foundation models, and structured robot behaviors** for more capable autonomous robotic systems.
 
 ---
 
